@@ -8,3 +8,4 @@ Students:
 4. krishna chaitanya
 5. Sudhir R
 6. Rinku
+7. ST
